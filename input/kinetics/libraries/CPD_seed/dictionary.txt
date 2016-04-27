@@ -205,13 +205,6 @@ FULVENE
 11 H u0 p0 c0 {6,S}
 12 H u0 p0 c0 {6,S}
 
-
-
-
-
-
-
-
 CPDyl
 multiplicity 2
 1  C u0 p0 c0 {2,D} {5,S} {6,S}
@@ -224,9 +217,6 @@ multiplicity 2
 8  H u0 p0 c0 {3,S}
 9  H u0 p0 c0 {4,S}
 10 H u0 p0 c0 {5,S}
-
-
-
 
 C2H3
 multiplicity 2

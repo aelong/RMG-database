@@ -40,6 +40,7 @@ entry(
         A=(1e+14, 'cm^3/(mol*s)'),
         n=0.000,
         Ea=(0.000, 'kcal/mol'),
+        T0=(1, 'K'),
         comment='',
     ),
 )
@@ -57,6 +58,7 @@ entry(
         A=(2.920e+13, 'cm^3/(mol*s)'),
         n=0.180,
         Ea=(0.124, 'kcal/mol'),
+        T0=(1, 'K'),
         comment='',
     ),
 )
@@ -75,6 +77,7 @@ entry(
         A=(2.60e+14, 'cm^3/(mol*s)'),
         n=0.180,
         Ea=(0.124, 'kcal/mol'),
+        T0=(1, 'K'),
         comment='',
     ),
 )
@@ -87,6 +90,7 @@ entry(
         A=(2.6e+14, 'cm^3/(mol*s)'),
         n=0.180,
         Ea=(0.124, 'kcal/mol'),
+        T0=(1, 'K'),
         comment='',
     ),
 )
@@ -106,6 +110,7 @@ entry(
         A=(3.370e+13, 'cm^3/(mol*s)'),
         n=0.000,
         Ea=(0.000, 'kcal/mol'),
+        T0=(1, 'K'),
         comment='',
     ),
 )
@@ -127,6 +132,7 @@ entry(
         A=(1.012e+08, 'cm^3/(mol*s)'),
         n=1.740,
         Ea=(24.300, 'kcal/mol'),
+        T0=(1, 'K'),
         comment='',
     ),
 )
@@ -141,6 +147,7 @@ entry(
         A=(1.012e+08, 'cm^3/(mol*s)'),
         n=1.740,
         Ea=(24.300, 'kcal/mol'),
+        T0=(1, 'K'),
         comment='',
     ),
 )
