@@ -85,7 +85,7 @@ entry(
 # pdt21(19)=pdt27(20)                                 6.070e+06 2.000     26.100
 entry(
     index = 6,
-    label = "pdt19 <=> pdt27",
+    label = "pdt21 <=> pdt27",
     degeneracy = 1,
     kinetics = Arrhenius(
         A=(6.070e+06, 'cm^3/(mol*s)'),
@@ -141,7 +141,7 @@ entry(
 # pdt55(23)=pdt58(24)                                 2.020e+11 0.790     35.300
 entry(
     index = 10,
-    label = "pdt15 <=> pdt55",
+    label = "pdt55 <=> pdt58",
     degeneracy = 1,
     kinetics = Arrhenius(
         A=(2.020e+11, 'cm^3/(mol*s)'),
@@ -155,7 +155,7 @@ entry(
 # pdt58(24)=pdt20(18)                                 1.040e+07 1.610     27.100
 entry(
     index = 11,
-    label = "pdt15 <=> pdt55",
+    label = "pdt58 <=> pdt20",
     degeneracy = 1,
     kinetics = Arrhenius(
         A=(2.020e+11, 'cm^3/(mol*s)'),

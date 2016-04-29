@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# encoding: utf-8
+
 name = "aromatics_revised"
 shortDesc = u"from shamel's aromatics_revised"
 longDesc = u"""
@@ -13,7 +16,7 @@ entry(
 		n=1.2,
 		Ea=(24.8,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -25,7 +28,7 @@ entry(
 		n=2.1,
 		Ea=(25.1,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -37,7 +40,7 @@ entry(
 		n=-0.7,
 		Ea=(-0.5,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -49,7 +52,7 @@ entry(
 		n=-0.7,
 		Ea=(-0.5,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -61,7 +64,7 @@ entry(
 		n=-0.7,
 		Ea=(-0.5,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -73,7 +76,7 @@ entry(
 		n=3.9,
 		Ea=(81.1,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -85,7 +88,7 @@ entry(
 		n=1.4,
 		Ea=(71.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -97,7 +100,7 @@ entry(
 		n=1.6,
 		Ea=(55.5,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -109,7 +112,7 @@ entry(
 		n=-0.1,
 		Ea=(0.4,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -121,7 +124,7 @@ entry(
 		n=0.3,
 		Ea=(0.1,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -133,7 +136,7 @@ entry(
 		n=0.6,
 		Ea=(-0.2,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -145,7 +148,7 @@ entry(
 		n=0.1,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -157,7 +160,7 @@ entry(
 		n=0.5,
 		Ea=(-0.1,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -169,7 +172,7 @@ entry(
 		n=0.6,
 		Ea=(-0.8,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -181,7 +184,7 @@ entry(
 		n=-10.45,
 		Ea=(28.65,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -193,7 +196,7 @@ entry(
 		n=0.0,
 		Ea=(14.07,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -205,7 +208,7 @@ entry(
 		n=0.00,
 		Ea=(60.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -217,7 +220,7 @@ entry(
 		n=0.0,
 		Ea=(33.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -229,7 +232,7 @@ entry(
 		n=0.0,
 		Ea=(22.5,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -241,7 +244,7 @@ entry(
 		n=1.61,
 		Ea=(2.63,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -253,7 +256,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -265,7 +268,7 @@ entry(
 		n=1.76,
 		Ea=(-1.216,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -277,7 +280,7 @@ entry(
 		n=1.88,
 		Ea=(0.1790,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -289,7 +292,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -301,7 +304,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -313,7 +316,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -325,7 +328,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -337,7 +340,7 @@ entry(
 		n=3.7,
 		Ea=(5.677,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -349,7 +352,7 @@ entry(
 		n=-1.19575,
 		Ea=(3.785,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -361,7 +364,7 @@ entry(
 		n=-0.17,
 		Ea=(0.440,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -373,7 +376,7 @@ entry(
 		n=-3.72699,
 		Ea=(8.15962,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -385,7 +388,7 @@ entry(
 		n=0.0,
 		Ea=(80.450,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -397,7 +400,7 @@ entry(
 		n=0.0,
 		Ea=(66.550,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -409,7 +412,7 @@ entry(
 		n=0.0,
 		Ea=(104.000,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -421,7 +424,7 @@ entry(
 		n=0.0,
 		Ea=(90.540,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -433,7 +436,7 @@ entry(
 		n=0.0,
 		Ea=(63.360,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -445,7 +448,7 @@ entry(
 		n=0.0,
 		Ea=(5.5,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -457,7 +460,7 @@ entry(
 		n=2.45,
 		Ea=(6.83,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -469,7 +472,7 @@ entry(
 		n=1.87,
 		Ea=(55.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -481,7 +484,7 @@ entry(
 		n=1.88,
 		Ea=(24.67,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -493,7 +496,7 @@ entry(
 		n=0.77,
 		Ea=(33.44,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -505,7 +508,7 @@ entry(
 		n=0.65,
 		Ea=(42.43,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -517,7 +520,7 @@ entry(
 		n=0.70,
 		Ea=(41.82,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -529,20 +532,21 @@ entry(
 		n=-11.45,
 		Ea=(21.34,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
-entry(
-	index = 45,
-	label = "C3H4a + H <=> ALLYL",
-	degeneracy = 1,
-	kinetics=Arrhenius(
-		A=(3.31867e+30,'cm^3/(mol*s)'),
-		n=-5.78,
-		Ea=(6.913,'kcal/mol'),
-		T0=(1,'K'),
-		),
-)
+
+# entry(
+# 	index = 45,
+# 	label = "C3H4a + H <=> ALLYL",
+# 	degeneracy = 1,
+# 	kinetics=Arrhenius(
+# 		A=(3.31867e+30,'cm^3/(mol*s)'),
+# 		n=-5.78,
+# 		Ea=(6.913,'kcal/mol'),
+# 		T0=(1,'K'),
+# 	),
+# )
 
 entry(
 	index = 46,
@@ -553,20 +557,21 @@ entry(
 		n=-1.83,
 		Ea=(15.003,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
-entry(
-	index = 47,
-	label = "C3H4a + H <=> METHYL + C2H2",
-	degeneracy = 1,
-	kinetics=Arrhenius(
-		A=(12286.92,'cm^3/(mol*s)'),
-		n=2.68,
-		Ea=(6.335,'kcal/mol'),
-		T0=(1,'K'),
-		),
-)
+
+# entry(
+# 	index = 47,
+# 	label = "C3H4a + H <=> METHYL + C2H2",
+# 	degeneracy = 1,
+# 	kinetics=Arrhenius(
+# 		A=(12286.92,'cm^3/(mol*s)'),
+# 		n=2.68,
+# 		Ea=(6.335,'kcal/mol'),
+# 		T0=(1,'K'),
+# 	),
+# )
 
 entry(
 	index = 48,
@@ -577,7 +582,7 @@ entry(
 		n=0.32,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -589,7 +594,7 @@ entry(
 		n=0.20600,
 		Ea=(-0.17297,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -601,7 +606,7 @@ entry(
 		n=0.176,
 		Ea=(-0.12511,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -613,7 +618,7 @@ entry(
 		n=2.70,
 		Ea=(1.10,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -625,7 +630,7 @@ entry(
 		n=2.21,
 		Ea=(3.2,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -637,7 +642,7 @@ entry(
 		n=2.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -649,7 +654,7 @@ entry(
 		n=2.6,
 		Ea=(12.9,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -661,7 +666,7 @@ entry(
 		n=0.0,
 		Ea=(5.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -673,7 +678,7 @@ entry(
 		n=0.0,
 		Ea=(5.5,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -685,7 +690,7 @@ entry(
 		n=0.0,
 		Ea=(31.6,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -697,7 +702,7 @@ entry(
 		n=2.16,
 		Ea=(4.8,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -709,7 +714,7 @@ entry(
 		n=1.55,
 		Ea=(2.28,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -721,7 +726,7 @@ entry(
 		n=0.48,
 		Ea=(43.11,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -733,7 +738,7 @@ entry(
 		n=0.81,
 		Ea=(24.35,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -745,7 +750,7 @@ entry(
 		n=0.0,
 		Ea=(4.9,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -757,7 +762,7 @@ entry(
 		n=0.0,
 		Ea=(10.6,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -769,7 +774,7 @@ entry(
 		n=0.0,
 		Ea=(14.7,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -781,7 +786,7 @@ entry(
 		n=0.0,
 		Ea=(28.9,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -793,7 +798,7 @@ entry(
 		n=0.0,
 		Ea=(15.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -805,7 +810,7 @@ entry(
 		n=0.0,
 		Ea=(15.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -817,7 +822,7 @@ entry(
 		n=0.0,
 		Ea=(20.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -829,7 +834,7 @@ entry(
 		n=0.0,
 		Ea=(15.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -841,7 +846,7 @@ entry(
 		n=0.0,
 		Ea=(20.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -853,7 +858,7 @@ entry(
 		n=0.0,
 		Ea=(6.1,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -865,7 +870,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -877,7 +882,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -889,7 +894,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -901,7 +906,7 @@ entry(
 		n=0.0,
 		Ea=(43.8,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -913,7 +918,7 @@ entry(
 		n=-10.7,
 		Ea=(41.4,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -925,7 +930,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -937,7 +942,7 @@ entry(
 		n=0.0,
 		Ea=(61.2,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -949,7 +954,7 @@ entry(
 		n=0.0,
 		Ea=(38.8,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -961,7 +966,7 @@ entry(
 		n=0.0,
 		Ea=(12.4,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -973,7 +978,7 @@ entry(
 		n=0.0,
 		Ea=(2.9,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -985,7 +990,7 @@ entry(
 		n=1.4,
 		Ea=(-0.96,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -997,7 +1002,7 @@ entry(
 		n=0.0,
 		Ea=(10.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1009,7 +1014,7 @@ entry(
 		n=0.0,
 		Ea=(7.7,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1021,7 +1026,7 @@ entry(
 		n=0.0,
 		Ea=(4.4,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1033,7 +1038,7 @@ entry(
 		n=0.0,
 		Ea=(9.4,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1045,7 +1050,7 @@ entry(
 		n=0.0,
 		Ea=(9.4,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1057,7 +1062,7 @@ entry(
 		n=0.0,
 		Ea=(9.4,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1069,7 +1074,7 @@ entry(
 		n=2.43,
 		Ea=(6.2800,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1081,7 +1086,7 @@ entry(
 		n=2.00,
 		Ea=(1.000,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1093,7 +1098,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1105,7 +1110,7 @@ entry(
 		n=0.00,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1117,7 +1122,7 @@ entry(
 		n=2.00,
 		Ea=(1.000,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1129,7 +1134,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1141,7 +1146,7 @@ entry(
 		n=0.0,
 		Ea=(0.0,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
 
 entry(
@@ -1153,6 +1158,7 @@ entry(
 		n=-12.55,
 		Ea=(22.26,'kcal/mol'),
 		T0=(1,'K'),
-		),
+	),
 )
+
 

@@ -5,4 +5,4 @@
 ################################################################################
 
 test-database:
-	nosetests -v -d testing/databaseTest.py	
+	nosetests --nocapture --nologcapture -v -d testing/databaseTest.py	
